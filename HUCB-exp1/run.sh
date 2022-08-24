@@ -1,0 +1,1 @@
+python3 Simulation_mult_process_pool_new.py --in_folder input_data/syn_L_50 --out_folder out_debug --poolSize 1000 --seedIndex 0
